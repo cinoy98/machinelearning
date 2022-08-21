@@ -2,6 +2,5 @@ pandas
 numpy
 flask
 matplotlib
-pickle
 pandas_profiling
 https://github.com/pandas-profiling/pandas-profiling/archive/master.zip
