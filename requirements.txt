@@ -3,4 +3,5 @@ numpy
 flask
 matplotlib
 pandas_profiling
+gununicorn
 https://github.com/pandas-profiling/pandas-profiling/archive/master.zip
